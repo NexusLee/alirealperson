@@ -1,0 +1,14 @@
+{
+  "name": "com.paddington.cordova.realperson",
+  "version": "0.0.1",
+  "description": "阿里云实人认证",
+  "cordova": {
+    "id": "com.paddington.cordova.realperson",
+    "platforms": []
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "paddington",
+  "license": "ISC"
+}
