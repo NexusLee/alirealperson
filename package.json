@@ -4,7 +4,14 @@
   "description": "阿里云实人认证",
   "cordova": {
     "id": "com.paddington.cordova.realperson",
-    "platforms": []
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NexusLee/alirealperson"
   },
   "keywords": [
     "ecosystem:cordova"
